@@ -5,6 +5,33 @@ All notable changes to FasalSathi will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.1] - 2025-10-08
+
+### Enhanced
+- 🎨 **Dynamic README**: Complete redesign with animations and better UX
+  - Added animated typing headers using readme-typing-svg
+  - Integrated skill icons for visual tech stack display
+  - Added interactive collapsible sections for better navigation
+  - Included Mermaid diagrams for visual representation
+  - Added dynamic badges with shields.io
+  - Implemented quick navigation table
+  - Added contributor showcase with contrib.rocks
+  - Enhanced with emojis and visual hierarchy
+
+### Improved
+- 📊 **Better Organization**: Structured content with tables and cards
+- 🎯 **Quick Navigation**: Jump to any section instantly
+- 📱 **Responsive Design**: Better viewing on all devices
+- 🔍 **Searchable Content**: Clear headings and structure
+- 💡 **Interactive Elements**: Expandable sections and code blocks
+
+### Added
+- 📈 **Performance Metrics**: Visual representation of app stats
+- 🗺️ **Roadmap Section**: Clear future plans and milestones
+- 📸 **Screenshots Placeholder**: Ready for app screenshots
+- 🤝 **Enhanced Contributing Guide**: Clearer contribution process
+- 📊 **Project Stats**: GitHub badges and statistics
+
 ## [1.1.0] - 2025-10-08
 
 ### Added
