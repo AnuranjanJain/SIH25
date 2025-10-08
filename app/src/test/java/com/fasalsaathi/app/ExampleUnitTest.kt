@@ -1,7 +1,6 @@
-package com.example.myandroidapp
+package com.fasalsaathi.app
 
 import org.junit.Test
-
 import org.junit.Assert.*
 
 /**
@@ -13,5 +12,10 @@ class ExampleUnitTest {
     @Test
     fun addition_isCorrect() {
         assertEquals(4, 2 + 2)
+    }
+    
+    @Test
+    fun stringConcatenation_isCorrect() {
+        assertEquals("FasalSaathi", "Fasal" + "Saathi")
     }
 }

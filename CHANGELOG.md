@@ -5,6 +5,51 @@ All notable changes to FasalSathi will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.0] - 2025-10-08
+
+### Added
+- 🛠️ **Build Script**: `build.sh` for automated Android builds with options
+- 🐍 **ML Setup Script**: `setup_ml.sh` for automated Python environment setup
+- 📚 **Comprehensive README**: All-in-one documentation with complete project info
+- 🤖 **ML Pipeline Documentation**: Integrated ML docs into main README
+- ✅ **Test Updates**: Fixed package names in test files
+
+### Changed
+- 📦 **Package Consistency**: Updated all tests to use `com.fasalsaathi.app`
+- 📝 **Documentation Consolidation**: Merged all docs into single README.md
+- 🗂️ **ML Pipeline**: Consolidated to single directory structure
+- 🔧 **.gitignore**: Enhanced with Python, cache, and backup file exclusions
+
+### Removed
+- ❌ **Build Artifacts**: Removed app/build/ and .gradle/ directories (~56 MB)
+- ❌ **Virtual Environments**: Removed weather_venv/ directory (~100 MB)
+- ❌ **Duplicate ML Files**: Removed ml_models/ directory (~15 MB)
+- ❌ **Python Cache**: Removed 5,000+ __pycache__ and .pyc files
+- ❌ **Duplicate Scripts**: Removed enhanced_ml_models.py and weather_service.py
+- ❌ **Backup Files**: Removed corrupted AndroidManifest_backup.xml
+- ❌ **Extra Documentation**: Removed QUICK_START.md, CONTRIBUTING.md, CLEANUP_*.md
+- 📦 **Total Space Saved**: ~171 MB of unnecessary files
+
+### Fixed
+- 🔧 **Test Package Names**: Corrected from com.example.myandroidapp to com.fasalsaathi.app
+- 🗂️ **Directory Structure**: Organized ML pipeline into single source of truth
+- 📝 **Documentation**: Consolidated all necessary info into README.md
+
+### Technical Improvements
+- ✅ Repository size optimized (171 MB cleaned)
+- ✅ No duplicate code or models
+- ✅ Clear project structure
+- ✅ Automated setup scripts
+- ✅ Production-ready configuration
+- ✅ Enhanced .gitignore for Python and Android
+
+### Repository Health
+- 50 Kotlin source files (well-organized)
+- 3 Python ML scripts (consolidated)
+- Single comprehensive README.md
+- Clean version control (no build artifacts)
+- Professional structure
+
 ## [1.0.0] - 2025-09-27
 
 ### Added
