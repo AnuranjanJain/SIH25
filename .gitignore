@@ -136,8 +136,11 @@ obj/
 build/
 
 # ML Models - Keep local only
-ml_models/
-ml_pipeline/models/
+ml_models/*
+!ml_models/README.md
+ml_pipeline/models/*
+!ml_pipeline/models/README.md
+!ml_pipeline/models/model_metadata.json
 *.pkl
 *.h5
 *.joblib
