@@ -24,7 +24,7 @@
             <ImageView
                 android:layout_width="64dp"
                 android:layout_height="64dp"
-                android:src="@drawable/ic_launcher_foreground"
+                android:src="@drawable/ic_agriculture"
                 android:background="@android:color/white"
                 android:padding="8dp"
                 android:elevation="4dp"

@@ -24,7 +24,7 @@
             <ImageView
                 android:layout_width="64dp"
                 android:layout_height="64dp"
-                android:src="@drawable/ic_launcher_legacy"
+                android:src="@drawable/ic_agriculture"
                 android:contentDescription="@string/cd_app_logo" />
 
             <TextView

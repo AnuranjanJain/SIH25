@@ -297,7 +297,7 @@ class CropRecommendationActivity : AppCompatActivity() {
             setDisplayHomeAsUpEnabled(true)
             setDisplayShowHomeEnabled(true)
             setDisplayUseLogoEnabled(true)
-            setLogo(R.drawable.ic_launcher_legacy)
+            setLogo(R.drawable.ic_agriculture)
             title = "Crop Recommendation"
         }
         
