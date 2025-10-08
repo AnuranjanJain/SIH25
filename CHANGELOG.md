@@ -5,6 +5,24 @@ All notable changes to FasalSathi will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.2] - 2025-10-08
+
+### Fixed
+- 🔧 **README Optimization**: Completely restructured for better readability
+  - Removed all duplicate content and redundant sections
+  - Reduced file size from 1633 to 343 lines (78% reduction)
+  - Fixed spacing issues and element visibility problems
+  - Improved rendering on GitHub and mobile devices
+  - Maintained all dynamic elements (animations, badges, skill icons)
+  - Better organized with collapsible details sections
+  - Cleaner, more professional appearance
+  - Removed broken or poorly formatted elements
+
+### Improved
+- 📦 **File Size**: Dramatically reduced README size while keeping all features
+- 🎯 **Readability**: Much easier to scan and navigate
+- ✨ **Visual Quality**: All elements properly spaced and aligned
+
 ## [1.1.1] - 2025-10-08
 
 ### Enhanced
