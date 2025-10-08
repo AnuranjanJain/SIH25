@@ -135,6 +135,13 @@ obj/
 # Built application files
 build/
 
+# ML Models - Keep local only
+ml_models/
+ml_pipeline/models/
+*.pkl
+*.h5
+*.joblib
+
 # Crashlytics configuations
 com_crashlytics_export_strings.xml
 crashlytics.properties
